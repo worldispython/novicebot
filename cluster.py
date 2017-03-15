@@ -7,11 +7,11 @@ from time import sleep
 import forecastio
 import datetime
 
-FORECASTIO_API = 'efc446560e1d4bd64842cb9bc9466818'
+FORECASTIO_API = ''
 URL_VK = 'https://api.vk.com/method/wall.get?domain=rt_russian&count=10&filter=owner'
 FILENAME_VK = 'last_known_id.txt'
 BASE_POST_URL = 'https://vk.com/wall-40316705_'
-BOT_TOKEN = '242758640:AAEexh47la0zo-hBJqv0FZJVGxpeLHkadw0'
+BOT_TOKEN = ''
 CHANNEL_NAME = '@wentus_news_feed'
 LAT = 55.752220
 LNG = 37.615560
